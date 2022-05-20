@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xichao520/echart-demo/static/css/main.73625138.css",
+    "main.js": "/xichao520/echart-demo/static/js/main.ac32a659.js",
+    "index.html": "/xichao520/echart-demo/index.html",
+    "main.73625138.css.map": "/xichao520/echart-demo/static/css/main.73625138.css.map",
+    "main.ac32a659.js.map": "/xichao520/echart-demo/static/js/main.ac32a659.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73625138.css",
+    "static/js/main.ac32a659.js"
+  ]
+}
